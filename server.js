@@ -12,5 +12,4 @@ server.get('/', (req, res) => {
     res.send('<h3> Node DB IV Challenge </h3>')
 });
 
-
 module.exports = server;
